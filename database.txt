@@ -1,0 +1,8 @@
+FP/20.02/08:00/normala
+FP/20.03/09:30/restanta
+ASC/21.02/10:00/normala
+Logica Computationala/27.01/11:00/normala
+Analiza Matematica/27.01/09:30/restanta
+Algebra/27.01/12:00/restanta
+ASC/23.02/18:00/restanta
+Algebra/29.01/09:00/normala
